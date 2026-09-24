@@ -22,6 +22,7 @@ Estou buscando uma oportunidade na área de tecnologia para colocar meus conheci
 
 - C#
 - .NET
+- Python
 
 ### Banco de dados
 
@@ -34,5 +35,5 @@ Estou buscando uma oportunidade na área de tecnologia para colocar meus conheci
 - Visual Studio
 - VS Code
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,react,angular,cs,dotnet,git,github,vscode,visualstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,react,angular,cs,python,dotnet,git,github,vscode,visualstudio)](https://skillicons.dev)
 
